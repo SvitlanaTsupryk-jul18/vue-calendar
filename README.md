@@ -2,7 +2,7 @@
 
 This project developied with Vue 3 using fullcalendar.io library.
 
-## Recommended IDE Setup
+## Link to calendar project deployed on Github pages below
 
 [Link to calendar](https://SvitlanaTsupryk-jul18.github.io/vue-calendar/)
 
